@@ -14,7 +14,7 @@ havan't been finally determined. However, it is likely to be developed soon with
 For Admin interface, run gui_back_end_login.py   
 Another tricky way to access Admin Login page is to type "admin_login" in users' login page   
       
-# More
+# Little More
 There are actually more hidden interesting facts to be explored, try it out!     
        
 # Inspiration
