@@ -107,7 +107,7 @@ def view_the_public_map():
     # # Note: [python3 -m http.server] ==> command that create localhost 8080
     ''' Uncomment this when mark_map.html is available'''
     # webbrowser.open("mark_map.html")
-    pass
+    os.system('open mark_map.html')
 
 def view_the_shared_map():
     ''' This is the method that shows information of the shared spots'''
